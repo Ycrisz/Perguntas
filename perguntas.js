@@ -1,23 +1,23 @@
 criaCartao(
+    'Anime',
+    'Qual respiração Tanjiro usa?',
+    'Respiração do Trovão, Agua e do Sol'
+)
+
+criaCartao(
+    'Anime',
+    'Qual streaming para assistir animes?',
+    'Crunchyroll'
+)
+
+criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual Linguagem que o Minecraft exige que tenha instalado do computador?',
+    'Java Script'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Pc',
+    'Qual o componente principal que o computador precisa para funcionar?',
+    'Placa Mãe e Fonte'
 )
